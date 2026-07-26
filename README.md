@@ -110,6 +110,24 @@ The application provides:
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](home.png)
+
+---
+
+### 📄 Upload Resume
+
+![Upload Resume](upload.png)
+
+---
+
+### 🤖 AI Resume Analysis
+
+![AI Resume Analysis](result.png)
+
 ## 👩‍💻 Author
 
 **Sana Hemalatha**
